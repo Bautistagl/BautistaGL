@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a passionate developer with experience in both web and mobile apps. Most of the projects I worked on were with Javascript/Typescript related technologies. I have a facility to learn new technologies and I am always open to it. One point I’m proud of is my soft skills when working in a team. I have a lot of creativity to translate customer ideas into pages or applications.
+I'm a cat.
 
 
 ## 🌐 Socials:
